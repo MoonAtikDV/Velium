@@ -1,16 +1,10 @@
 <div align="center">
-  <img src="src-tauri/icons/icon.png" alt="Velium Logo" width="110" />
+  <img src="logo.png" alt="Velium Logo" width="220" />
   <h1>Velium</h1>
   <p><b>Полноценный, самодостаточный менеджер iOS-устройств для Windows и Linux</b></p>
-
-  <p>
-    <img src="https://shields.io" alt="Platform" />
-    <img src="https://shields.io" alt="Design" />
-    <img src="https://shields.io" alt="License" />
-  </p>
 </div>
 
----
+
 
 ## О проекте
 
